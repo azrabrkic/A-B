@@ -1,0 +1,49 @@
+<xml version="1.0"?> 
+<PlayList>
+    
+    <Song1>
+        <Author>Lizzo</Author>
+        <Name>Good as hell</Name>
+        <Strophe>
+            Woo child, tired of the bullshit
+            Go on dust your shoulders off, keep it moving
+            Yes Lord, tryna get some new shit
+            In there, swimwear, going to the pool shit
+            Come now, come dry your eyes
+            You know you a star, you can touch the sky
+            I know that it's hard but you have to try
+            If you need advice, let me simplify
+        </Strophe>
+        <file class="mp3"> song1 </file>
+    </Song1>
+    
+    <Song2>
+        <Author>Fabrizio De André</Author>
+        <Name>Bocca di rosa</Name>
+        <Strophe>
+            La chiamavano bocca di rosa
+            Metteva l'amore, metteva l'amore
+            La chiamavano bocca di rosa
+            Metteva l'amore sopra ogni cosa
+        </Strophe>
+        <file class="mp3"> song2 </file>
+    </Song2>
+    
+    <Song3>
+        <Author>Nitro</Author>
+        <Name>Pleasantville</Name>
+        <Strophe>
+            Something's got a hold on my mind
+            Living in a life that's not mine
+            Know there's a million of folks to me, but
+            They just pass in the street
+            Maybe love
+            Vorrei un mondo in bianco e nero come in Pleasantville
+            Dove i colori non li vedo e posso accenderli
+            Dove il colore dei tuoi occhi può sorprendermi
+            Se non ti prendo poi non so nemmeno come perderti
+        </Strophe>
+        <file class="mp3"> song2 </file>
+    </Song3>
+    
+</PlayList>

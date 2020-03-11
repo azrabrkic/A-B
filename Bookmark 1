@@ -1,0 +1,18 @@
+<xml version="1.0"?> 
+<Bookmark>
+    <b1>
+        <title> Youtube </title>
+        <URL> https://www.youtube.com/ </URL>
+    </b1>
+    
+    <b2>
+        <title> GoogleTranslate </title>
+        <URL> https://translate.google.com/ </URL>
+    </b2>
+    
+     <b3>
+        <title> Amazon </title>
+        <URL> https://www.amazon.it/ </URL>
+    </b3>
+
+</Bookmark>

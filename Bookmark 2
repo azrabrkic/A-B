@@ -1,0 +1,51 @@
+<xml version="1.0"?>
+<Bookmark2>
+    <folder1>                                  <!-- Cartella -->
+        <name>Ricerca</name>                   <!-- Titolo della cartella -->
+        <e1>                                   <!-- Elemento -->
+            <N>Google</N>                      <!-- Nnome dell?elemento -->
+            <URL>https://www.google.com/</URL> <!-- URL dell'elemento -->
+        </e1>
+        <e2>
+            <N>Yahoo</N>
+            <URL>https://it.yahoo.com/</URL>
+        </e2>
+        <e3>
+            <N>Bing</N>
+            <URL>https://www.bing.com/?setlang=it</URL>
+        </e3>
+    </folder1>
+    
+    <folder2> 
+        <name>Music</name>
+        <e1>
+            <N>Spotify</N>
+            <URL>https://www.spotify.com/it/</URL>
+        </e1>
+        <e2>
+            <N>Youtube</N>
+            <URL>https://www.youtube.com/</URL>
+        </e2>
+        <e3>
+            <N>Deezer</N>
+            <URL>https://www.deezer.com/it/</URL>
+        </e3>
+    </folder2>
+    
+    <folder2> 
+        <name>Takeaway Food</name>
+        <e1>
+            <N>Deliveroo</N>
+            <URL>https://deliveroo.it/it/</URL>
+        </e1>
+        <e2>
+            <N>Just Eat</N>
+            <URL>https://www.justeat.it/</URL>
+        </e2>
+        <e3>
+            <N>Glovo</N>
+            <URL>https://glovoapp.com/it/udn</URL>
+        </e3>
+    </folder2>
+    
+</Bookmark2>
